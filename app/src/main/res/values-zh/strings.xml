@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloading">正在下载 %1$s %2$s&#8230;</string>
+    <string name="delete">是否保存更新包?</string>
+    <string name="delete_description">是否保留下载的安装包(APK文件)?</string>
+    <string name="app_update">更新 %s 可用</string>
+    <string name="app_update_description">发现新版本</string>
+    <string name="button_delete">删除</string>
+    <string name="button_save">保存到 \"Downloads\"下</string>
+    <string name="button_share">Share APK</string>
+    <string name="button_update">升级</string>
+    <string name="button_disable_update">不再提示</string>
+    <string name="snackbar_saved">%s 保存到 \"Downloads\文件夹"</string>
+    <string name="snackbar_failed">下载出错,请重试...</string>
+
+    <string name="no_wifi">现在并没有连接wifi,是否继续?</string>
+    <string name="download_sure">确定下载</string>
+    <string name="download_after">以后再说</string>
+    <string name="warning">警告</string>
+
+</resources>
